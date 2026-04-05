@@ -1,0 +1,3 @@
+.convertidorvenv/
+__pycache__/
+*.pyc
