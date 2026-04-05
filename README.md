@@ -134,4 +134,4 @@ Este proyecto es solo para fines educativos. Respeta los derechos de autor del c
 
 ## ⭐ Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes revisar la pestaña de CONTRIBUTING.
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes revisar la pestaña de Contributing.
