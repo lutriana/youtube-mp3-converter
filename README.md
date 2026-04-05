@@ -110,10 +110,12 @@ Luego pega el enlace del video de YouTube cuando lo solicite.
 
 ```
 .
+├── .gitignore
+├── CONTRIBUTING.md
 ├── convertidor.py
+├── LICENSE
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
@@ -132,4 +134,4 @@ Este proyecto es solo para fines educativos. Respeta los derechos de autor del c
 
 ## ⭐ Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes hacer un fork y enviar un pull request.
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes revisar la pestaña de CONTRIBUTING.
